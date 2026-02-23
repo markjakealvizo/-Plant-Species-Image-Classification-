@@ -12,7 +12,7 @@ Learning Rate - 0.001: A common default value that ensures steady and stable con
 # Output:
 Confusing Matrix: <img width="268" height="580" alt="image" src="https://github.com/user-attachments/assets/ce4b558a-6afd-4fda-aafc-36a8aed9b280"/>
                   <img width="339" height="700" alt="image" src="https://github.com/user-attachments/assets/d20e2370-54a8-4c08-baea-f7f587bd3822" />
-                  <img width="134" height="625" alt="image" src="https://github.com/user-attachments/assets/29b22192-aee4-4e76-b489-dd03d8d63c65" 
+                  <img width="134" height="625" alt="image" src="https://github.com/user-attachments/assets/29b22192-aee4-4e76-b489-dd03d8d63c65"/> 
                     
 Accuracy per plant: <img width="293" height="711" alt="image" src="https://github.com/user-attachments/assets/43e23113-bd89-4030-8367-b87258e5fe30" />
 
