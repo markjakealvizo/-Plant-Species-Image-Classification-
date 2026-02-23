@@ -18,7 +18,7 @@ Learning rate: 0.001
 Number of image per class: 250
 
 ## D. Model Evaluation
-###Confusion matrix:
+### Confusion matrix:
 
 
 <img width="299" height="673" alt="image" src="https://github.com/user-attachments/assets/b05b151f-b1d8-4891-8677-1a77b98a0157" />
@@ -27,13 +27,13 @@ Number of image per class: 250
 
 
 
-###Accuracy per class: 
+### Accuracy per class: 
 
 <img width="302" height="689" alt="image" src="https://github.com/user-attachments/assets/403a4d4a-077e-4753-9483-51f0ad559fbf" />
 
 
 
-###Overall accuracy: 68.2%
+### Overall accuracy: 68.2%
 
 
 ## E. Model Testing
