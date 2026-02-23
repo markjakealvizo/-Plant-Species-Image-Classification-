@@ -18,13 +18,16 @@ Learning rate: 0.001
 Number of image per class: 250
 
 ## D. Model Evaluation
-Confusion matrix: <img width="299" height="673" alt="image" src="https://github.com/user-attachments/assets/b05b151f-b1d8-4891-8677-1a77b98a0157" />
-                  <img width="282" height="657" alt="image" src="https://github.com/user-attachments/assets/06a8cabc-5466-4669-a3a5-1b7e63f17aaf" />
-                  <img width="110" height="652" alt="image" src="https://github.com/user-attachments/assets/fcb49920-a30a-4d9d-b021-9322a08dbddf" />
+Confusion matrix:
+<img width="299" height="673" alt="image" src="https://github.com/user-attachments/assets/b05b151f-b1d8-4891-8677-1a77b98a0157" />
+<img width="282" height="657" alt="image" src="https://github.com/user-attachments/assets/06a8cabc-5466-4669-a3a5-1b7e63f17aaf" />
+<img width="110" height="652" alt="image" src="https://github.com/user-attachments/assets/fcb49920-a30a-4d9d-b021-9322a08dbddf" />
 
 
 
-Accuracy per class: <img width="302" height="689" alt="image" src="https://github.com/user-attachments/assets/403a4d4a-077e-4753-9483-51f0ad559fbf" />
+Accuracy per class: 
+
+<img width="302" height="689" alt="image" src="https://github.com/user-attachments/assets/403a4d4a-077e-4753-9483-51f0ad559fbf" />
 
 
 
