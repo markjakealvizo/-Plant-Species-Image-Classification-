@@ -2,27 +2,24 @@
 
 This project focuses on developing a deep learning model to classify different plant species based on image data. The model was trained using 50 epochs, a batch size of 16, and a learning rate of 0.001 to achieve stable and efficient learning. Performance was evaluated using accuracy per plant species, allowing detailed analysis of how well the model recognizes each type of plant. The results show varying accuracy levels across 20 plant species, highlighting both strong classifications and areas that need improvement.
 
-Configure the training parameters:<img width="267" height="536" alt="image" src="https://github.com/user-attachments/assets/b58909a5-b944-422e-821a-beaf93134551" />
-
-
-50 Epochs: Chosen to give the model enough training iterations to learn patterns effectively without excessive training that could lead to overfitting.
-Batch Size: 16: Provides a good balance between stable learning and efficient memory usage, especially suitable for limited hardware resources.
-Learning Rate: 0.001: A common default value that ensures steady and stable convergence without overshooting during optimization.
+Screenshot of training settings :<img width="267" height="536" alt="image" src="https://github.com/user-attachments/assets/b58909a5-b944-422e-821a-beaf93134551" />
+50 Epochs - Chosen to give the model enough training iterations to learn patterns effectively without excessive training that could lead to overfitting.
+Batch Size - 16: Provides a good balance between stable learning and efficient memory usage, especially suitable for limited hardware resources.
+Learning Rate - 0.001: A common default value that ensures steady and stable convergence without overshooting during optimization.
 
 # Under the hood Screenshot: 
-Confusing Matrix: <img width="320" height="629" alt="image" src="https://github.com/user-attachments/assets/33dc0260-d59f-4a62-a52f-9492fc0fc32c" />
-Accuracy per class: <img width="318" height="621" alt="image" src="https://github.com/user-attachments/assets/a1cf59bd-ee45-4558-b919-daa737b051ce" />
-Accuracy per epoch: <img width="299" height="253" alt="image" src="https://github.com/user-attachments/assets/ffc9e6a9-5089-4666-9d16-f54e217c085d" />
-Loss per epoch: <img width="301" height="235" alt="image" src="https://github.com/user-attachments/assets/0df63fe6-e7cf-49c5-9c0d-a30122a39766" />
-
 # Output:
 Confusing Matrix: <img width="268" height="580" alt="image" src="https://github.com/user-attachments/assets/ce4b558a-6afd-4fda-aafc-36a8aed9b280" 
                   <img width="339" height="700" alt="image" src="https://github.com/user-attachments/assets/d20e2370-54a8-4c08-baea-f7f587bd3822" />
                   <img width="134" height="625" alt="image" src="https://github.com/user-attachments/assets/29b22192-aee4-4e76-b489-dd03d8d63c65" />
-Accuracy per plant:
+Accuracy per plant: <img width="293" height="711" alt="image" src="https://github.com/user-attachments/assets/43e23113-bd89-4030-8367-b87258e5fe30" />
+
+# Test the model:
+10 screenshots: Juneberry <img width="287" height="269" alt="image" src="https://github.com/user-attachments/assets/2932dd90-f172-4aa5-993a-ad5930b631fa" />
+                          <img width="224" height="690" alt="image" src="https://github.com/user-attachments/assets/97b9fbcb-9785-45f6-9855-cf125d76d277" />
 
 
-10
+
 
 
 
