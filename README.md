@@ -42,6 +42,60 @@ Juneberry:
 <img width="256" height="254" alt="image" src="https://github.com/user-attachments/assets/5e220400-f795-4e62-9ef4-508f20b74aea" />
 <img width="234" height="780" alt="image" src="https://github.com/user-attachments/assets/d8fe31b0-184a-4157-a6d7-8ded94dba31d" />
 
+Weeping Willow: 
+
+<img width="312" height="281" alt="image" src="https://github.com/user-attachments/assets/b309aa64-49cc-4023-a2b9-ca2f312e15df" />
+<img width="234" height="783" alt="image" src="https://github.com/user-attachments/assets/9bc3fe00-fe1d-4f77-a452-4ff5c38bf899" />
+
+Olive Tree: 
+
+<img width="289" height="294" alt="image" src="https://github.com/user-attachments/assets/c5bba173-291e-4491-873b-c319fdc3a19c" />
+<img width="217" height="729" alt="image" src="https://github.com/user-attachments/assets/2d8afccd-d2a3-4597-80c3-89dd121def99" />
+
+Mediterranean cypress:
+
+<img width="241" height="235" alt="image" src="https://github.com/user-attachments/assets/9e9a8088-bfc4-42da-b0d6-b5f75ccf6e93" />
+<img width="239" height="781" alt="image" src="https://github.com/user-attachments/assets/92a816b9-d31d-4abf-b3ba-5e797dc2a0cb" />
+
+Sweetgum:
+
+<img width="272" height="262" alt="image" src="https://github.com/user-attachments/assets/027971e2-22b9-43be-9df6-2f604ef088c5" />
+<img width="234" height="783" alt="image" src="https://github.com/user-attachments/assets/293dcdfc-1f78-465a-a824-841c787baa60" />
+
+
+Gingko:
+
+<img width="302" height="293" alt="image" src="https://github.com/user-attachments/assets/f32a4ad0-76d1-48a9-92e2-aa3f4bab3ee6" />
+<img width="234" height="779" alt="image" src="https://github.com/user-attachments/assets/46247927-8ebc-4e14-bde9-f035b53b06d1" />
+
+
+Crape myrtle:
+
+<img width="311" height="299" alt="image" src="https://github.com/user-attachments/assets/eecad668-78da-468c-bff2-4d58ff1ef58c" />
+<img width="239" height="784" alt="image" src="https://github.com/user-attachments/assets/ab3529f6-30d8-41d7-8efd-6ac3bd620d9e" />
+
+
+Flowering dogwood:
+
+<img width="340" height="329" alt="image" src="https://github.com/user-attachments/assets/a23095a0-7e46-4509-a572-bcf8dde9c5ab" />
+<img width="234" height="780" alt="image" src="https://github.com/user-attachments/assets/2ea653fa-f0b6-4596-a6fe-78fe95f9b5f1" />
+
+
+Pink trumpet tree:
+
+<img width="311" height="303" alt="image" src="https://github.com/user-attachments/assets/6ad1eca5-ebff-4d8b-8c74-a4da402fcd07" />
+<img width="267" height="832" alt="image" src="https://github.com/user-attachments/assets/6925e462-b9f8-4772-8225-1490a485a49b" />
+
+
+Silk tree:
+
+<img width="321" height="312" alt="image" src="https://github.com/user-attachments/assets/889ac835-a92a-47ac-8503-5d3f019d9205" />
+<img width="242" height="786" alt="image" src="https://github.com/user-attachments/assets/3da1919f-4fc9-45e9-b7ef-7cd1d8c0eb1e" />
+
+
+
+
+
 
 
 
