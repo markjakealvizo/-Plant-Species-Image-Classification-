@@ -37,6 +37,12 @@ Number of image per class: 250
 
 
 ## E. Model Testing
+Juneberry:
+
+<img width="256" height="254" alt="image" src="https://github.com/user-attachments/assets/5e220400-f795-4e62-9ef4-508f20b74aea" />
+<img width="234" height="780" alt="image" src="https://github.com/user-attachments/assets/d8fe31b0-184a-4157-a6d7-8ded94dba31d" />
+
+
 
 
 
