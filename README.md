@@ -60,40 +60,33 @@ Number of image per class: 250
 <img width="261" height="834" alt="image" src="https://github.com/user-attachments/assets/20f5a5d1-c15b-4b62-b9d2-18f7a33ca353" />
 
 
-5.
-
-<img width="272" height="262" alt="image" src="https://github.com/user-attachments/assets/027971e2-22b9-43be-9df6-2f604ef088c5" />
-<img width="234" height="783" alt="image" src="https://github.com/user-attachments/assets/293dcdfc-1f78-465a-a824-841c787baa60" />
+5.Sweetgum
 
 
-6.
-
-<img width="302" height="293" alt="image" src="https://github.com/user-attachments/assets/f32a4ad0-76d1-48a9-92e2-aa3f4bab3ee6" />
-<img width="234" height="779" alt="image" src="https://github.com/user-attachments/assets/46247927-8ebc-4e14-bde9-f035b53b06d1" />
 
 
-7.
-
-<img width="311" height="299" alt="image" src="https://github.com/user-attachments/assets/eecad668-78da-468c-bff2-4d58ff1ef58c" />
-<img width="239" height="784" alt="image" src="https://github.com/user-attachments/assets/ab3529f6-30d8-41d7-8efd-6ac3bd620d9e" />
+6.Ginkgo
 
 
-8.
-
-<img width="340" height="329" alt="image" src="https://github.com/user-attachments/assets/a23095a0-7e46-4509-a572-bcf8dde9c5ab" />
-<img width="234" height="780" alt="image" src="https://github.com/user-attachments/assets/2ea653fa-f0b6-4596-a6fe-78fe95f9b5f1" />
 
 
-9.
-
-<img width="311" height="303" alt="image" src="https://github.com/user-attachments/assets/6ad1eca5-ebff-4d8b-8c74-a4da402fcd07" />
-<img width="267" height="832" alt="image" src="https://github.com/user-attachments/assets/6925e462-b9f8-4772-8225-1490a485a49b" />
+7.Crape myrtle
 
 
-10.
 
-<img width="321" height="312" alt="image" src="https://github.com/user-attachments/assets/889ac835-a92a-47ac-8503-5d3f019d9205" />
-<img width="242" height="786" alt="image" src="https://github.com/user-attachments/assets/3da1919f-4fc9-45e9-b7ef-7cd1d8c0eb1e" />
+
+8.Flowering dogwood
+
+
+
+9.Pink trumpet tree
+
+
+
+
+10.Silk Tree
+
+
 
 
 
