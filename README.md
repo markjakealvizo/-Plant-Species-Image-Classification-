@@ -37,24 +37,28 @@ Number of image per class: 250
 
 
 ## E. Model Testing
-1.
+1.Juneberry
 
-<img width="294" height="264" alt="image" src="https://github.com/user-attachments/assets/3a277586-0985-4435-982a-ec3dcf26d713" />
-<img width="241" height="848" alt="image" src="https://github.com/user-attachments/assets/a82a4d99-7817-44b8-9383-0fa69881d39b" />
+<img width="275" height="255" alt="image" src="https://github.com/user-attachments/assets/b9f17c6e-35dd-4cdb-87bd-6af77ada41b7" />
+<img width="225" height="802" alt="image" src="https://github.com/user-attachments/assets/c5add5db-3525-48a0-baab-7bd08107cb47" />
 
-2.
+2.Weeping willow
+
+<img width="278" height="259" alt="image" src="https://github.com/user-attachments/assets/359c85ec-0ffd-4088-a7b3-36e03ac18963" />
+<img width="229" height="841" alt="image" src="https://github.com/user-attachments/assets/3646e868-40e9-412a-8153-5dc8dfbe08ce" />
 
 
+3.Olive tree
 
-3.
+<img width="290" height="280" alt="image" src="https://github.com/user-attachments/assets/b777a32d-cd2f-4da8-9de1-3eb8e2b94fae" />
+<img width="323" height="811" alt="image" src="https://github.com/user-attachments/assets/2719351e-b6d1-4dac-970e-9f7ca4cba883" />
 
-<img width="289" height="294" alt="image" src="https://github.com/user-attachments/assets/c5bba173-291e-4491-873b-c319fdc3a19c" />
-<img width="217" height="729" alt="image" src="https://github.com/user-attachments/assets/2d8afccd-d2a3-4597-80c3-89dd121def99" />
 
-4.
+4.Mediterranean cypress
 
-<img width="241" height="235" alt="image" src="https://github.com/user-attachments/assets/9e9a8088-bfc4-42da-b0d6-b5f75ccf6e93" />
-<img width="239" height="781" alt="image" src="https://github.com/user-attachments/assets/92a816b9-d31d-4abf-b3ba-5e797dc2a0cb" />
+<img width="244" height="238" alt="image" src="https://github.com/user-attachments/assets/10fc0b83-a836-4929-8bc6-0392f8cc0761" />
+<img width="261" height="834" alt="image" src="https://github.com/user-attachments/assets/20f5a5d1-c15b-4b62-b9d2-18f7a33ca353" />
+
 
 5.
 
