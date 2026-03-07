@@ -62,37 +62,39 @@ Number of image per class: 250
 
 5.Sweetgum
 
-
+<img width="260" height="283" alt="image" src="https://github.com/user-attachments/assets/687c96b4-1cf8-4814-8fc3-b6bfa445f1af" />
+<img width="233" height="398" alt="image" src="https://github.com/user-attachments/assets/32e88b6a-1872-43a3-a628-3e67b6d22420" />
 
 
 6.Ginkgo
-
-
+   
+<img width="246" height="256" alt="image" src="https://github.com/user-attachments/assets/a2cb8759-65bd-4d71-88d9-ababba3f6c46" />
+<img width="233" height="677" alt="image" src="https://github.com/user-attachments/assets/1b75b0cd-aee1-4977-a428-a9fe2338e80b" />
 
 
 7.Crape myrtle
 
-
+<img width="272" height="268" alt="image" src="https://github.com/user-attachments/assets/9ea8d0ba-b0e3-4667-9f61-0d9a37407f31" />
+<img width="296" height="652" alt="image" src="https://github.com/user-attachments/assets/551b7bcf-bbc5-4420-9f0c-4867b4ceea98" />
 
 
 8.Flowering dogwood
 
+<img width="251" height="251" alt="image" src="https://github.com/user-attachments/assets/4f721d1b-e5f7-4fcf-9a86-62355199b31d" />
+<img width="220" height="628" alt="image" src="https://github.com/user-attachments/assets/8b23586b-dc0e-431b-96d3-e724fd61592a" />
 
 
 9.Pink trumpet tree
 
+<img width="246" height="247" alt="image" src="https://github.com/user-attachments/assets/5c554875-eda4-4fa7-9b21-e774932261a1" />
+<img width="244" height="685" alt="image" src="https://github.com/user-attachments/assets/146270c6-be6f-46f9-bf31-e0e64ebcd0bf" />
 
 
 
-10.Silk Tree
+10.Tropical almond 
 
-
-
-
-
-
-
-
+<img width="269" height="268" alt="image" src="https://github.com/user-attachments/assets/d74a9142-5c93-4c6a-9f0e-2c7bbf802c38" />
+<img width="264" height="596" alt="image" src="https://github.com/user-attachments/assets/3b176bca-95eb-4b34-be99-59ffd5fd0512" />
 
 
 
