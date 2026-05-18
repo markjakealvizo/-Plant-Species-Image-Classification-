@@ -1,4 +1,4 @@
-<img width="306" height="220" alt="image" src="https://github.com/user-attachments/assets/f20b548e-930d-4594-ab00-8f8dd0ad17a0" />🌳 Tree Species Image Classification Project 🌿
+# 🌳 Tree Species Image Classification Project 🌿
 
 ## A. Project Overview
 
