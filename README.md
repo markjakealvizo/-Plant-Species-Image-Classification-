@@ -1,15 +1,155 @@
-# -Plant-Species-Image-Classification-
+🌳 Tree Species Image Classification Project 🌿
 
 ## A. Project Overview
-This project focuses on developing a deep learning model to classify different plant species based on image data. The model was trained using 50 epochs, a batch size of 16, and a learning rate of 0.001 to achieve stable and efficient learning. Performance was evaluated using accuracy per plant species, allowing detailed analysis of how well the model recognizes each type of plant. The results show varying accuracy levels across 20 plant species, highlighting both strong classifications and areas that need improvement.
+
+This project focuses on developing an image classification model for 20 different tree species. The model is designed to accurately identify each tree species from images, supporting research, forestry management, and educational purposes.
+
+
+
+## Below are the 20 tree species included in this project.
+
+
+## B. Plant Species Section
 
 <img width="999" height="667" alt="image" src="https://github.com/user-attachments/assets/5b3bca85-b7b0-4819-b813-543e868cc482" />
 
-## B. Plant Species Section
-Common Name:Juneberry 
+Juneberry 
+
 Scientific Name: Amelanchier
 
-Juneberry (Amelanchier) is a small deciduous shrub or tree known for its sweet, edible berries that ripen in early summer. The berries are often dark purple and resemble blueberries, making them popular for jams, pies, and fresh eating. Juneberries also have attractive white flowers in spring and vibrant fall foliage, making them both a food source and an ornamental plant.
+Description: Juneberry is a purple-blue fruit that is sweet, soft, and rich in vitamins, antioxidants, and fiber. It grows on shrubs or small trees and is also called serviceberry or saskatoon berry.
+
+
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/eff21cb0-9604-4102-b01a-3ff95468acd9" />
+
+
+Weeping willow
+
+Scientific Name: Salix babylonica.
+
+Description: Weeping Willow is an ornamental tree with drooping green branches and narrow leaves. It provides shade, improves landscape beauty, and is known for its calm and elegant appearance.
+
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4d619cfd-a169-47ba-bc7e-faf23b64aa96" />
+
+
+Olive tree
+
+Scientific Name: Olea europaea
+
+Description: Olive Tree is a durable tree with silver-green leaves and small fruits called olives. It is valued for food, oil production, and its economic importance.
+
+
+<img width="1860" height="1860" alt="image" src="https://github.com/user-attachments/assets/cf57bae3-476b-4924-bbeb-edd6c841ede6" />
+
+
+Mediterranean cypress
+
+Scientific Name: Cupressus sempervirens
+
+Description: Mediterranean Cypress is a hardy tree with dark green leaves and a straight upright form. It is commonly planted in gardens, parks, and along roadsides for decoration and wind protection.
+
+
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/8713b22e-00ac-4006-afb5-4e2d63f2f6de" />
+
+
+
+Sweetgum
+
+Scientific Name: Liquidambar styraciflua
+
+Description: Sweetgum is a tall tree with glossy green leaves that turn red, orange, and yellow in fall. It also produces spiky seed balls and provides shade and ornamental value.
+
+
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/b495c746-ce43-4a0f-b6a7-1d055b0eca75" />
+
+
+
+Gingko
+
+Scientific Name:  Ginkgo biloba
+
+Description: Ginkgo is a deciduous tree with bright green leaves that turn golden yellow in autumn. It is valued for ornamental purposes and traditional medicinal uses.
+
+
+<img width="1400" height="1400" alt="image" src="https://github.com/user-attachments/assets/91dead23-3ce7-489b-a773-d4f96143d7bc" />
+
+
+Crape myrtle
+
+Scientific Name:  Lagerstroemia indica
+
+Description: Crape Myrtle produces clusters of pink, purple, red, or white flowers. It is often used in landscaping because it is easy to grow, drought-tolerant, and visually attractive.
+
+
+<img width="330" height="220" alt="image" src="https://github.com/user-attachments/assets/6ba42d12-e006-47a1-a9e2-843d105a8ff0" />
+
+
+
+Flowering dogwood
+
+Scientific Name: Cornus florida
+
+Description: Flowering Dogwood has white or pink petal-like flowers and red berries. It is popular in landscaping because of its attractive blooms and seasonal color changes.
+
+
+<img width="735" height="737" alt="image" src="https://github.com/user-attachments/assets/bb34c54c-778f-4645-a439-9dde869d8867" />
+
+
+Pink trumpet tree
+
+Scientific Name: Tabebuia rosea
+
+Description: Pink Trumpet Tree produces large pink, trumpet-shaped flowers that make the tree very eye-catching when in full bloom. It is widely used in landscaping for its beauty and shade.
+
+
+<img width="2048" height="1365" alt="image" src="https://github.com/user-attachments/assets/cf358b34-ec56-473d-b17b-4ec54316535f" />
+
+
+Silk Tree
+
+Scientific Name: Albizia julibrissin
+
+Description: Silk Tree has fern-like leaves and unique pink flowers that attract butterflies and bees. It adds beauty to gardens but can spread quickly in some areas.
+
+
+<img width="224" height="224" alt="image" src="https://github.com/user-attachments/assets/d3be71a3-3466-4840-a7d0-8cb5a0c2e7b2" />
+
+
+Silk Oak
+
+Scientific Name: Grevillea robusta
+
+Description: Silk Oak has fern-like leaves and bright yellow-orange flower clusters. It is used in landscaping, timber production, and as a shade tree in gardens and farms.
+
+
+<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/f7a80a85-915f-43ed-97ab-bdf70a6271b5" />
+
+
+Tropical Almods
+
+Scientific Name: Terminalia catappa
+
+Description: Tropical Almond has wide, flat leaves and produces edible seeds inside a hard shell. It is often planted for shade, coastal protection, and ornamental use.
+
+
+<img width="165" height="220" alt="image" src="https://github.com/user-attachments/assets/ad2b1d99-09b2-4be7-b5dd-c834710f357a" />
+
+
+False Ashoka
+
+Scientific Name: Polyalthia longifolia
+
+Description: False Ashoka has narrow, drooping leaves and grows in a straight, column-like shape. It is often used as a privacy screen or ornamental tree in gardens and campuses.
+
+
+
+
+
+
+
+
+
 
 ## C. Model Training Details
 Epochs: 50
