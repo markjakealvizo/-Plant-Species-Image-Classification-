@@ -1,4 +1,4 @@
-🌳 Tree Species Image Classification Project 🌿
+<img width="306" height="220" alt="image" src="https://github.com/user-attachments/assets/f20b548e-930d-4594-ab00-8f8dd0ad17a0" />🌳 Tree Species Image Classification Project 🌿
 
 ## A. Project Overview
 
@@ -143,12 +143,74 @@ Scientific Name: Polyalthia longifolia
 Description: False Ashoka has narrow, drooping leaves and grows in a straight, column-like shape. It is often used as a privacy screen or ornamental tree in gardens and campuses.
 
 
+<img width="306" height="220" alt="image" src="https://github.com/user-attachments/assets/4c4f14bb-1528-4905-af73-58eb0d09bcc8" />
 
 
+Coral Tree
+
+Scientific Name: Erythrina variegata
+
+Description: Coral Tree produces vibrant red flower clusters that attract birds and pollinators. It is widely planted in parks, roadsides, and gardens for its striking appearance.
 
 
+<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/4cc1f2cc-4abe-44df-afcb-9d5da2583c48" />
 
 
+Fringe tree
+
+Scientific Name: Chionanthus virginicus
+
+Description: Fringe Tree produces soft, feathery white flower clusters that appear in spring. It is often used in landscaping because of its elegant and attractive blooms.
+
+
+<img width="235" height="220" alt="image" src="https://github.com/user-attachments/assets/89528e5e-dc52-4c3e-97cd-037419942ad3" />
+
+
+Norfolk Island Pine
+
+Scientific Name: Araucaria heterophylla
+
+Description:Norfolk Island Pine has soft needle-like leaves and grows in a layered, pyramid form. It is commonly used as a decorative Christmas tree and for landscaping in tropical areas.
+
+
+<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/be30ec0b-48aa-45df-adc5-dd242782a090" />
+
+
+Acacia saligna
+
+Scientific Name: Acacia saligna
+
+Description: Acacia saligna has long, narrow leaves and bright yellow flower clusters. It is drought-tolerant and often used for soil improvement, windbreaks, and environmental restoration.
+
+
+<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/ed3cc256-65e4-4f21-b8bc-fed2061707a8" />
+
+
+Estern Redbud
+
+Scientific Name: Cercis canadensis
+
+Description: Eastern Redbud has heart-shaped leaves and bright pink blossoms that grow directly on its branches and trunk. It is popular in landscaping because of its striking spring color and small size.
+
+
+<img width="275" height="220" alt="image" src="https://github.com/user-attachments/assets/18cc9f35-2ed0-4d91-8334-e0e40dc7b966" />
+
+
+Magnolia grandiflora
+
+Scientific Name: Magnolia grandiflora
+
+Description: Magnolia grandiflora produces large white, lemon-scented flowers and thick green leaves with a brown underside. It is valued for its beauty, shade, and strong landscape presence.
+
+
+<img width="184" height="220" alt="image" src="https://github.com/user-attachments/assets/d24ba7a2-bf1f-490d-a230-88dd1c6e53dc" />
+
+
+Fernleaf Full Moon Maple Tree
+
+Scientific Name: Acer japonicum 'Aconitifolium'
+
+Description: This maple tree has finely divided green leaves that turn red, orange, or yellow in autumn. It is valued for landscaping because of its unique leaf shape and vibrant fall color display.
 
 
 ## C. Model Training Details
