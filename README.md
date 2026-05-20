@@ -1,5 +1,5 @@
 ## Google Drive Link: https://drive.google.com/drive/folders/19MdgtxP9ANdoLtn9PNlfrNNTtxxZohsC?usp=drive_link
-
+## Exported Model link: https://drive.google.com/file/d/1eVUkCyXS9Dy9gGV286NzLpljBGL1hScr/view?usp=drive_link
 
 # 🌳 Tree Species Image Classification Project 🌿
 
